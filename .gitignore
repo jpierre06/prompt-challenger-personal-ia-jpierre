@@ -3,3 +3,6 @@ anotacoes/*
 
 # Ignorar arquivos de IDE
 .idea/*
+
+# Ignorar arquivo modelo de histórico
+historico_prompt/Prompt_Modelo.md
