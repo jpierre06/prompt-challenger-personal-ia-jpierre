@@ -64,6 +64,13 @@ A quarta regra envolve a escolha do tipo de exercício baseado no histórico mé
 -	Problema cardíaco = Restrição de exercíos que podem afetar ou agravar problemas cardíacos
 
 
+Regra 5: personal
+
+Essa regra define se a pessoa precisa de um personal treiner para acompanhar a execução das atividades, 
+ou se a pessoa pode fazer a atividade sozinha sem acompanhamento de personal treiner
+
+Essa regra deve ser inferida a partir das definições das regras anteriores
+
 
 # Resultado esperado
 Com base nos valores informados na área Entrada de variáveis e com as guidelines, 
